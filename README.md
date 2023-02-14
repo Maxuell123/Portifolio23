@@ -28,3 +28,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Annie é um portfólio pessoal totalmente responsivo, <br />Responsivo para todos os dispositivos, construído usando HTML, CSS e JavaScript.
 
+## :memo: Licença
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+
+---
+
